@@ -45,7 +45,7 @@ I'm aiming to become a Node.js Developer.
 
 # **Connect with me:**
 <p align="left">
-    <a href="https://www.linkedin.com/in/albomonco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AlboMonco" height="40" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/albomonaco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="albomonaco" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="mailto:albomonaco@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="AlboMonco" height="40" width="40" /></a>
 </p>
 
