@@ -40,8 +40,8 @@ I'm aiming to become a Node.js Developer.
 # My last projects:
 
 <p>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=albomonaco&repo=learning-C"/>&nbsp;
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=albomonaco&repo=banco&"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=albomonaco&repo=learning-node-api-rest"/>&nbsp;
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=albomonaco&repo=learning-nodeJS&"/>
 </p>
 
 <p>&nbsp;</p>
