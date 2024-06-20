@@ -39,7 +39,6 @@ Python Back End Developer | Currently undergraduating in Electrical Engineering 
 # My last projects:
 
 <p>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=albomonaco&repo=learning-node-api-rest"/>&nbsp;
 	<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=albomonaco&repo=learning-nodeJS&"/>
 </p>
 
