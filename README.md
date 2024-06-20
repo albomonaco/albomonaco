@@ -2,7 +2,7 @@
 
 ## I'm Enzo Monaco, 
 
-JavaScript Back End Developer | Student on High School  
+JavaScript Back End Developer | Currently undergraduating in Electrical Engineering on UFRJ.
 I'm aiming to become a Node.js Developer.
 
 <p>&nbsp;</p>
